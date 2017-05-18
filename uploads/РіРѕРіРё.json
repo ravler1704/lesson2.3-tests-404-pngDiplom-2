@@ -1,0 +1,27 @@
+[{
+"testQuestion": "Вопрос теста 3?",
+"testAnswers": [
+"10",
+"100",
+"1000",
+"10000"],
+"wrightAnswer": "1000"},
+{
+"testQuestion": "Вопрос теста 3?",
+"testAnswers": [
+"100",
+"10",
+"0.1",
+"0.01"],
+"wrightAnswer": "0.1"
+},
+{
+"testQuestion": "Вопрос теста 3?",
+"testAnswers": [
+"1",
+"7",
+"2",
+"5"],
+"wrightAnswer": "7"
+}
+]
